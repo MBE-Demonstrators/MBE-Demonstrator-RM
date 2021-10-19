@@ -5,6 +5,7 @@ The purpose of this platform is to demonstrate standards based digital twin.
 Contact Brandon Sapp @
 brandon.sapp@boeing.com
 425-312-4145
+
 https://www.linkedin.com/in/brandon-sapp-mis-3937681/
 
 
