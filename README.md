@@ -10,4 +10,4 @@ timoty.j.suhr@boeing.com
 
 ![MBE Demonstrator RM v1.1](https://github.com/MBE-Demonstrators/MBE-Demonstrator-RM/releases/tag/v1.1)
 
-![MBE Demonstrator RM](https://github.com/MBE-Demonstrators/MBE-Demonstrator-RM/blob/master/mbedemonstratorrm.png)
+![MBE Demonstrator RM](https://github.com/MBE-Demonstrators/MBE-Demonstrator-RM/blob/main/mbedemonstratorrm.png)
